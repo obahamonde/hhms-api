@@ -1,0 +1,17 @@
+fastapi[all]
+openai
+tiktoken
+numpy
+pydub
+pytube
+pydantic==1.10.12
+rich
+iso8601
+python-dotenv
+python-multipart
+jinja2
+bs4
+lxml
+uvicorn[standard]
+boto3
+scipy
